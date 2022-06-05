@@ -9,3 +9,6 @@
 #### 示例2
 > **输入：** nums = [1,3,5,6], target = 2 
 > **输出：** 1
+
+来源：力扣（LeetCode）
+链接：https://leetcode.cn/problems/search-insert-position
